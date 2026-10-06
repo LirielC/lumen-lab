@@ -34,7 +34,7 @@ The experiment models the angular intensity distribution of light after one or t
 For a single slit, the normalized intensity is modeled as:
 
 $$
-\frac{I(\theta)}{I_0} = \operatorname{sinc}^2\left(\frac{a q}{\lambda}\right),
+\frac{I(\theta)}{I_0} = \mathrm{sinc}^2\left(\frac{a q}{\lambda}\right),
 \qquad q = \sin\theta - \sin\alpha
 $$
 
@@ -42,7 +42,7 @@ For two slits, the diffraction envelope is combined with the interference term:
 
 $$
 \frac{I(\theta)}{I_0} =
-\operatorname{sinc}^2\left(\frac{a q}{\lambda}\right)
+\mathrm{sinc}^2\left(\frac{a q}{\lambda}\right)
 \cos^2\left(\frac{\pi d q}{\lambda}\right)
 $$
 
