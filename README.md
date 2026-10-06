@@ -150,7 +150,7 @@ python -m coverage html
 
 The repository includes a packaged Windows release. Users can launch `LumenLab.exe` without installing Python or the project dependencies. Before running it, extract the complete distribution package to a local folder.
 
-- [Windows user manual](documentacao/Manual_do_Usuario_LumenLab.pdf)
+- [Windows user manual] -> 
 - [Source code and development files](codigo-fonte/)
 - [Verification evidence](evidencias/)
 - [SHA-256 checksums](SHA256SUMS.txt)
