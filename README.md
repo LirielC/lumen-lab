@@ -2,6 +2,26 @@
 
 ### A computational laboratory for physical optics
 
+<p align="center">
+  <img src="assets/lumenlab-demo.gif" alt="LumenLab application demonstration" width="820">
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white" alt="Python 3.11+"></a>
+  <a href="https://doc.qt.io/qtforpython-6/"><img src="https://img.shields.io/badge/PySide6-6.11.2-41CD52?logo=qt&logoColor=white" alt="PySide6 6.11.2"></a>
+  <a href="https://numpy.org/doc/"><img src="https://img.shields.io/badge/NumPy-2.5.2-013243?logo=numpy&logoColor=white" alt="NumPy 2.5.2"></a>
+  <a href="https://matplotlib.org/stable/"><img src="https://img.shields.io/badge/Matplotlib-3.11.1-11557C?logo=python&logoColor=white" alt="Matplotlib 3.11.1"></a>
+  <a href="https://pytest.org/"><img src="https://img.shields.io/badge/Pytest-9.1.1-0A9EDC?logo=pytest&logoColor=white" alt="Pytest 9.1.1"></a>
+  <a href="https://pyinstaller.org/"><img src="https://img.shields.io/badge/PyInstaller-6.22.2-38761D?logo=python&logoColor=white" alt="PyInstaller 6.22.2"></a>
+</p>
+
+<p align="center">
+  <a href="#experiments">Experiments</a> ·
+  <a href="#technical-design">Architecture</a> ·
+  <a href="#running-from-source">Run from source</a> ·
+  <a href="#academic-context">Academic context</a>
+</p>
+
 LumenLab is an educational desktop application that helps students explore wave-optics phenomena through interactive simulations. Users can adjust physical parameters, observe the resulting visual patterns, review the underlying equations, and export experiment data for further analysis.
 
 The project was developed collaboratively by [Liriel C.](https://github.com/LirielC) and [Melyssa Souza](https://github.com/Melyssa-Souza) for the **Physics III** course at the [State University of Rio de Janeiro (UERJ)](https://www.uerj.br/).
