@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0",
+  "frozen": true,
+  "executable": "C:\\Users\\Ryzen\\AppData\\Local\\Temp\\LumenLab-final-25806e56fa124d9fab54acd740e0b981\\LumenLab.exe",
+  "date_utc": "2026-09-12T01:43:33.100819+00:00",
+  "checks": [
+    "experiment-0: physics, JSON round trip, CSV, Qt render",
+    "experiment-1: physics, JSON round trip, CSV, Qt render",
+    "experiment-2: physics, JSON round trip, CSV, Qt render",
+    "experiment-3: physics, JSON round trip, CSV, Qt render",
+    "comparison and PNG export",
+    "zero-intensity source in both modules",
+    "invalid geometry blocks CSV and PNG"
+  ],
+  "passed": true
+}

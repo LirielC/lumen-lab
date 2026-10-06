@@ -1,0 +1,32 @@
+[
+  {
+    "page": "inicio",
+    "logical_size": [
+      1366,
+      768
+    ],
+    "device_pixel_ratio": 1.0,
+    "horizontal_scroll": 0,
+    "vertical_scroll": 0
+  },
+  {
+    "page": "fendas",
+    "logical_size": [
+      1366,
+      768
+    ],
+    "device_pixel_ratio": 1.0,
+    "horizontal_scroll": 0,
+    "vertical_scroll": 0
+  },
+  {
+    "page": "polarizacao",
+    "logical_size": [
+      1366,
+      768
+    ],
+    "device_pixel_ratio": 1.0,
+    "horizontal_scroll": 0,
+    "vertical_scroll": 0
+  }
+]
